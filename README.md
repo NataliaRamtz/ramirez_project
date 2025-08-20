@@ -126,4 +126,4 @@ Para más información sobre Ostara:
 
 ---
 
-Desarrollado con ❤️ para Ostara Alta Costura
+Desarrollado con ❤️ para Ostara
